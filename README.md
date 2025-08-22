@@ -8,3 +8,5 @@
 
 
 ### Todo
+
+ - proposal bot
