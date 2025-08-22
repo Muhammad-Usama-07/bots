@@ -10,3 +10,4 @@
 ### Todo
 
  - proposal bot
+ - maintain history and session
